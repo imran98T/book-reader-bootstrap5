@@ -1,0 +1,25 @@
+
+#heroimg{
+    border-radius: 15px;
+}
+
+@media (max-width:767px){
+    #her1{
+        gap: 5px;
+    }
+
+    #herotexts{
+        text-align: center;
+    }
+}
+
+#spybar a{
+    color: white;
+}
+#spybar a:focus{
+    background:#212529;
+}
+
+#scrolltext{
+    color: white;
+}
